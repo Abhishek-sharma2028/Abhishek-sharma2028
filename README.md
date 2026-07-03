@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-sharma-608495376">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<!--
-**Abhishek-sharma2028/Abhishek-sharma2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://leetcode.com/u/Abhi_555/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://takeuforward.org/profile/pheonix555">
+    <img src="https://img.shields.io/badge/TUF_Profile-1E90FF?style=for-the-badge">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://codeforces.com/profile/Abhishek_2028">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+</p>
