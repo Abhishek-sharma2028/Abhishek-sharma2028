@@ -17,7 +17,6 @@ I'm a **B.Tech CSE student at JIIT Noida** (Batch 2024–2028) passionate about 
 
 - 🏢 **AI & Cloud Intern** @ IBM SkillsBuild (via Edunet Foundation · AICTE) — built a Phishing Detection Agent & an Agentic Health Symptom Checker using **IBM Watsonx.ai + LangFlow + Granite models**
 - 💻 **300+ DSA problems** solved on LeetCode, Codeforces, and GeeksforGeeks
-- 🔭 Currently building **Focusify** — an AI/ML project analyzing student phone usage & productivity
 - 🌐 Deployed projects on **Vercel** with real users
 
 ---
@@ -28,7 +27,6 @@ I'm a **B.Tech CSE student at JIIT Noida** (Batch 2024–2028) passionate about 
 
 | Project | Tech |
 |---|---|
-| 🔐 Phishing Detection Agent | IBM Watsonx Orchestrate |
 | 🩺 Agentic Health Symptom Checker | IBM Watsonx.ai · Granite models · LangFlow |
 
 Completed certifications in: **Agentic AI · Generative AI · Data Analytics · Quantum Computing · IBM Cloud**
@@ -68,12 +66,6 @@ Completed certifications in: **Agentic AI · Generative AI · Data Analytics · 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
@@ -105,8 +97,21 @@ Completed certifications in: **Agentic AI · Generative AI · Data Analytics · 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Abhi_555?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/Abhi_555)
+<br><br>
 
+<a href="https://takeuforward.org/profile/pheonix555">
+    <img src="https://img.shields.io/badge/TakeUForward-Profile-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
+<a href="https://takeuforward.org/profile/pheonix555">
+    <img src="https://img.shields.io/badge/Striver_A2Z-Sheet-success?style=for-the-badge"/>
+</a>
+
+<a href="https://takeuforward.org/profile/pheonix555">
+    <img src="https://img.shields.io/badge/DSA-Progress-orange?style=for-the-badge"/>
+</a>
 </div>
+<br><br>
 
 | Platform | Handle | Status |
 |---|---|---|
