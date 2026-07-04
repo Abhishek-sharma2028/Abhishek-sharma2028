@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Abhishek%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=CS%20Undergrad%20%7C%20AI%20%26%20Full-Stack%20Builder%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=62&descColor=e0e7ff" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Abhi_555)
