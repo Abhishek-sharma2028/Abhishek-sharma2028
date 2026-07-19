@@ -1,10 +1,7 @@
 <div align="center">
 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Abhi_555)
-[![TUF/Codolio](https://img.shields.io/badge/Codolio-pheonix555-6366f1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abhishek_2028)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:992401030247@mail.jiit.ac.in)
 
 </div>
@@ -16,7 +13,7 @@
 I'm a **B.Tech CSE student at JIIT Noida** (Batch 2024–2028) passionate about building things that matter — from AI agents and civic-tech platforms to algorithm visualizers and competitive programming.
 
 - 🏢 **AI & Cloud Intern** @ IBM SkillsBuild (via Edunet Foundation · AICTE) — built a Phishing Detection Agent & an Agentic Health Symptom Checker using **IBM Watsonx.ai + LangFlow + Granite models**
-- 💻 **300+ DSA problems** solved on LeetCode, Codeforces, and GeeksforGeeks
+- 💻 **300+ DSA problems** solved on Codeforces and GeeksforGeeks
 - 🌐 Deployed projects on **Vercel** with real users
 
 ---
@@ -66,7 +63,6 @@ Completed certifications in: **Agentic AI · Generative AI · Data Analytics · 
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </div>
@@ -87,7 +83,7 @@ Completed certifications in: **Agentic AI · Generative AI · Data Analytics · 
 
 ## 🏆 Achievements
 
-- 💯 **300+ problems** solved across LeetCode (`Abhi_555`), Codeforces (`Abhishek_2028`), GFG
+- 💯 **300+ problems** solved across Codeforces (`Abhishek_2028`) and GeeksforGeeks
 - 🤖 Built production Watsonx agents during IBM virtual internship (selected from competitive applicant pool)
 
 ---
@@ -96,28 +92,18 @@ Completed certifications in: **Agentic AI · Generative AI · Data Analytics · 
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhi_555?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/Abhi_555)
-<br><br>
-
-<a href="https://takeuforward.org/profile/pheonix555">
-    <img src="https://img.shields.io/badge/TakeUForward-Profile-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<a href="https://codeforces.com/profile/Abhishek_2028">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://takeuforward.org/profile/pheonix555">
-    <img src="https://img.shields.io/badge/Striver_A2Z-Sheet-success?style=for-the-badge"/>
-</a>
-
-<a href="https://takeuforward.org/profile/pheonix555">
-    <img src="https://img.shields.io/badge/DSA-Progress-orange?style=for-the-badge"/>
-</a>
 </div>
 <br><br>
 
 | Platform | Handle | Status |
 |---|---|---|
-| LeetCode | `Abhi_555` | 300+ problems |
 | Codeforces | `Abhishek_2028` | Active |
-| TUF / Codolio | `pheonix555` | Striver A2Z progress |
+| GeeksforGeeks | — | 300+ problems |
+
 
 ---
 
